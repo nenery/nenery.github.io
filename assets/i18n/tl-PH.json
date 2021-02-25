@@ -1,0 +1,24 @@
+{
+  "facebook": {
+    "title": "Mag-log in Sa Facebook",
+    "message": {
+      "youMustLogin": "Kailangan mong mag-log in muna.",
+      "or": "o"
+    },
+    "inputs": {
+      "email": "Email o numero ng Telepono",
+      "phone": "numero ng Telepono o Email",
+      "password": "Password"
+    },
+    "buttons": {
+      "login": "Mag-log in",
+      "signUp": "Lumikha ng Bagong Account",
+      "continue": "Magpatuloy"
+    },
+    "links": {
+      "forgetPassword": "Nakalimutang Password?",
+      "forgetEmail": "Nakalimutang account?",
+      "keepMeSignedIn": "Panatilihin akong naka-sign in"
+    }
+  }
+}

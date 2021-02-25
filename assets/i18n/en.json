@@ -1,0 +1,24 @@
+{
+    "facebook": {
+        "title": "Log in to Facebook",
+        "message": {
+            "youMustLogin": "You must log in first.",
+            "or": "or"
+        },
+        "inputs": {
+            "email": "Email address or mobile number",
+            "phone": "Mobile number or Email address",
+            "password": "Password"
+        },
+        "buttons": {
+            "login": "Log In",
+            "signUp": "Create New Account",
+            "continue": "Continue"
+        },
+        "links": {
+            "forgetPassword": "Forgotten password?",
+            "forgetEmail": "Forgotten account?",
+            "keepMeSignedIn": "Keep me signed in"
+        }
+    }
+}
